@@ -1,0 +1,304 @@
+{
+  "books": [
+   {
+    "title": "Flying Saucer, The",
+    "imageUrl": "http://dummyimage.com/181x100.png/5fa2dd/ffffff",
+    "description": "Golf III",
+    "reviews": "Sci-Fi",
+    "author": "Flowdesk",
+    "price": "14 - Conveying Systems",
+    "section": "Drama|Romance",
+    "isbnNumber": 1
+},
+{
+    "title": "Promotion, The",
+    "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+    "description": "Equinox",
+    "reviews": "Comedy",
+    "author": "Temp",
+    "price": "7-900 - Joint Sealers",
+    "section": "Drama",
+    "isbnNumber": 2
+},
+{
+    "title": "Konopielka",
+    "imageUrl": "http://dummyimage.com/154x100.png/5fa2dd/ffffff",
+    "description": "Metro",
+    "reviews": "Comedy",
+    "author": "Zoolab",
+    "price": "5-200 - Metal Joists",
+    "section": "Horror",
+    "isbnNumber": 3
+},
+{
+    "title": "Pentimento",
+    "imageUrl": "http://dummyimage.com/170x100.png/ff4444/ffffff",
+    "description": "Civic",
+    "reviews": "Drama",
+    "author": "Sonsing",
+    "price": "16-400 - Low-Voltage Distribution",
+    "section": "Drama|Thriller",
+    "isbnNumber": 4
+},
+{
+    "title": "Thief of Paris, The (Le voleur)",
+    "imageUrl": "http://dummyimage.com/210x100.png/ff4444/ffffff",
+    "description": "Thunderbird",
+    "reviews": "Comedy|Crime|Drama",
+    "author": "Andalax",
+    "price": "2-300 - Earthwork",
+    "section": "Comedy",
+    "isbnNumber": 5
+},
+{
+    "title": "Roadracers",
+    "imageUrl": "http://dummyimage.com/154x100.png/ff4444/ffffff",
+    "description": "E150",
+    "reviews": "Drama",
+    "author": "Y-Solowarm",
+    "price": "2-870 - Sculpture/Ornamental",
+    "section": "Comedy|Drama|Romance",
+    "isbnNumber": 6
+},
+{
+    "title": "Axed",
+    "imageUrl": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+    "description": "Cougar",
+    "reviews": "Drama|Horror|Thriller",
+    "author": "Ventosanzap",
+    "price": "6-200 - Finish Carpentry",
+    "section": "Romance",
+    "isbnNumber": 7
+},
+{
+    "title": "Magic Camp",
+    "imageUrl": "http://dummyimage.com/174x100.png/5fa2dd/ffffff",
+    "description": "Grand Cherokee",
+    "reviews": "Children|Documentary",
+    "author": "Zamit",
+    "price": "1-515 - Temporary Lighting",
+    "section": "Comedy|Drama",
+    "isbnNumber": 8
+},
+{
+    "title": "Precious",
+    "imageUrl": "http://dummyimage.com/201x100.png/ff4444/ffffff",
+    "description": "Fairlane",
+    "reviews": "Drama",
+    "author": "Stronghold",
+    "price": "12 - Furnishings",
+    "section": "Drama",
+    "isbnNumber": 9
+},
+{
+    "title": "Madame Rosa (La vie devant soi)",
+    "imageUrl": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+    "description": "Mazda5",
+    "reviews": "Drama",
+    "author": "Asoka",
+    "price": "17-020 - Insurance",
+    "section": "Drama",
+    "isbnNumber": 10
+},
+{
+    "title": "Red-Headed Woman",
+    "imageUrl": "http://dummyimage.com/221x100.png/ff4444/ffffff",
+    "description": "Panamera",
+    "reviews": "Comedy|Romance",
+    "author": "Regrant",
+    "price": "10-250 - Service Walls",
+    "section": "Drama|War",
+    "isbnNumber": 11
+},
+{
+    "title": "Gasoline (Benzina)",
+    "imageUrl": "http://dummyimage.com/173x100.png/ff4444/ffffff",
+    "description": "Tucson",
+    "reviews": "Crime",
+    "author": "Domainer",
+    "price": "9-900 - Paints and Coatings",
+    "section": "Documentary",
+    "isbnNumber": 12
+},
+{
+    "title": "I Want You",
+    "imageUrl": "http://dummyimage.com/106x100.png/cc0000/ffffff",
+    "description": "L300",
+    "reviews": "Drama|Romance",
+    "author": "Zoolab",
+    "price": "14 - Conveying Systems",
+    "section": "Drama|Romance|War",
+    "isbnNumber": 13
+},
+{
+    "title": "Romance",
+    "imageUrl": "http://dummyimage.com/159x100.png/cc0000/ffffff",
+    "description": "Tahoe",
+    "reviews": "Drama|Romance",
+    "author": "Tresom",
+    "price": "2-830 - Retaining Walls",
+    "section": "Comedy|Drama|Romance",
+    "isbnNumber": 14
+},
+{
+    "title": "Tae Guk Gi: The Brotherhood of War (Taegukgi hwinalrimyeo)",
+    "imageUrl": "http://dummyimage.com/238x100.png/ff4444/ffffff",
+    "description": "Protege",
+    "reviews": "Action|Drama|War",
+    "author": "Zamit",
+    "price": "2-625 - Retaining Wall Drainage Piping",
+    "section": "Crime|Drama|Thriller",
+    "isbnNumber": 15
+},
+{
+    "title": "Tom at the Farm (Tom à la ferme)",
+    "imageUrl": "http://dummyimage.com/212x100.png/ff4444/ffffff",
+    "description": "Boxster",
+    "reviews": "Drama",
+    "author": "Y-find",
+    "price": "7-100 - Damproofing and Waterproofing",
+    "section": "Adventure|Animation|Children|Comedy|Fantasy",
+    "isbnNumber": 16
+},
+{
+    "title": "Scapegoat, The",
+    "imageUrl": "http://dummyimage.com/109x100.png/cc0000/ffffff",
+    "description": "RL",
+    "reviews": "Drama",
+    "author": "Y-Solowarm",
+    "price": "2-815 - Fountains",
+    "section": "Drama",
+    "isbnNumber": 17
+},
+{
+    "title": "Crossworlds",
+    "imageUrl": "http://dummyimage.com/194x100.png/dddddd/000000",
+    "description": "3500",
+    "reviews": "Action|Comedy|Sci-Fi",
+    "author": "Lotlux",
+    "price": "1-010 - Project Manager",
+    "section": "Comedy",
+    "isbnNumber": 18
+},
+{
+    "title": "Norma Rae",
+    "imageUrl": "http://dummyimage.com/238x100.png/dddddd/000000",
+    "description": "TSX",
+    "reviews": "Drama",
+    "author": "Zaam-Dox",
+    "price": "12 - Furnishings",
+    "section": "Drama|Romance",
+    "isbnNumber": 19
+},
+{
+    "title": "The Divine Woman",
+    "imageUrl": "http://dummyimage.com/222x100.png/dddddd/000000",
+    "description": "Accord",
+    "reviews": "(no genres listed)",
+    "author": "Rank",
+    "price": "14 - Conveying Systems",
+    "section": "Documentary",
+    "isbnNumber": 20
+},
+{
+    "title": "Abbott and Costello Meet Captain Kidd",
+    "imageUrl": "http://dummyimage.com/199x100.png/5fa2dd/ffffff",
+    "description": "Defender",
+    "reviews": "Adventure|Comedy|Musical",
+    "author": "Voyatouch",
+    "price": "10-800 - Toilet, Bath, and Laundry Specialties",
+    "section": "Drama",
+    "isbnNumber": 21
+},
+{
+    "title": "Transylmania",
+    "imageUrl": "http://dummyimage.com/208x100.png/5fa2dd/ffffff",
+    "description": "CL",
+    "reviews": "Comedy|Horror",
+    "author": "Ventosanzap",
+    "price": "6-400 - Architectural Woodwork",
+    "section": "Action|Drama|War",
+    "isbnNumber": 22
+},
+{
+    "title": "Evening Star, The",
+    "imageUrl": "http://dummyimage.com/125x100.png/dddddd/000000",
+    "description": "Tiguan",
+    "reviews": "Comedy|Drama",
+    "author": "Prodder",
+    "price": "7 - Thermal and Moisture Protection",
+    "section": "Thriller",
+    "isbnNumber": 23
+},
+{
+    "title": "Looking for Hortense (Cherchez Hortense) ",
+    "imageUrl": "http://dummyimage.com/148x100.png/ff4444/ffffff",
+    "description": "Scoupe",
+    "reviews": "Drama",
+    "author": "Mat Lam Tam",
+    "price": "13-240 - Oxygenation Systems",
+    "section": "Drama|Musical|Romance",
+    "isbnNumber": 24
+},
+{
+    "title": "Taken 2",
+    "imageUrl": "http://dummyimage.com/218x100.png/ff4444/ffffff",
+    "description": "V50",
+    "reviews": "Action|Crime|Drama|Thriller",
+    "author": "Voyatouch",
+    "price": "3-540 - Cementitious Underlayments",
+    "section": "Documentary",
+    "isbnNumber": 25
+},
+{
+    "title": "Mystery of Picasso, The (Le mystère Picasso)",
+    "imageUrl": "http://dummyimage.com/228x100.png/5fa2dd/ffffff",
+    "description": "SLK-Class",
+    "reviews": "Documentary",
+    "author": "Solarbreeze",
+    "price": "11-700 - Medical Equipment",
+    "section": "Documentary",
+    "isbnNumber": 26
+},
+{
+    "title": "Thirteen",
+    "imageUrl": "http://dummyimage.com/201x100.png/ff4444/ffffff",
+    "description": "Maxima",
+    "reviews": "Drama",
+    "author": "Bitchip",
+    "price": "4-600 - Corrosion-Resistant Masonry",
+    "section": "Horror|Sci-Fi|Thriller",
+    "isbnNumber": 27
+},
+{
+    "title": "40 Pounds of Trouble",
+    "imageUrl": "http://dummyimage.com/179x100.png/5fa2dd/ffffff",
+    "description": "Impreza",
+    "reviews": "Comedy",
+    "author": "Fix San",
+    "price": "2-315 - Excavation",
+    "section": "Drama",
+    "isbnNumber": 28
+},
+{
+    "title": "Garfield's Fun Fest",
+    "imageUrl": "http://dummyimage.com/220x100.png/5fa2dd/ffffff",
+    "description": "Equator",
+    "reviews": "Animation|Children|Comedy|Fantasy",
+    "author": "Alpha",
+    "price": "2-924 - Sodding",
+    "section": "Action|Adventure|Sci-Fi|IMAX",
+    "isbnNumber": 29
+},
+{
+    "title": "Dry White Season, A",
+    "imageUrl": "http://dummyimage.com/132x100.png/5fa2dd/ffffff",
+    "description": "Corvette",
+    "reviews": "Drama|Thriller",
+    "author": "Rank",
+    "price": "2-924 - Sodding",
+    "section": "Adventure|Children|Fantasy",
+    "isbnNumber": 30
+}
+  ]
+}
